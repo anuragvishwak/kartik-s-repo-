@@ -54,6 +54,7 @@ function main() {
                 process.exit(0);
             default:
                 console.log('Invalid choice');
+                console.log('hello')
         }
     }
 }
