@@ -51,6 +51,7 @@ function main() {
                 break;
             case 5:
                 console.log('Exiting...');
+                console.log('after exiting')
                 process.exit(0);
             default:
                 console.log('Invalid choice');
